@@ -9,7 +9,6 @@ namespace Git_Samples
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
             Console.WriteLine(Gordao.Servico.Texto);
             Console.WriteLine(Tophe.Servico.Texto);
         }
