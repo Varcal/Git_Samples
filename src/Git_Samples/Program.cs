@@ -10,8 +10,8 @@ namespace Git_Samples
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine(Servico.Texto);
-            Console.WriteLine(Servico.Texto);
+            Console.WriteLine(Gordao.Servico.Texto);
+            Console.WriteLine(Tophe.Servico.Texto);
         }
     }
 }
